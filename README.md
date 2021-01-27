@@ -1,2 +1,6 @@
 # CloudCraft
-Blog
+
+Welcome to my Blog.
+
+Cheers, 
+Humberto jorquera. 
